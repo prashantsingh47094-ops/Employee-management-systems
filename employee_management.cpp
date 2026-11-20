@@ -1,5 +1,4 @@
-/*
- * Employee Payroll Management System (C++)
+/** Employee Payroll Management System (C++)
  * Features: Add, View All, Payslip Generator, Update, Delete Records
  */
 #include <iostream>
